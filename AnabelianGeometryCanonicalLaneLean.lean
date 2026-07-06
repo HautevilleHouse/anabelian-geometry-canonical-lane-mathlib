@@ -1,0 +1,7 @@
+-- This module is the root of the AnabelianGeometryCanonicalLaneLean Lean proof package.
+import AnabelianGeometryCanonicalLaneLean.Basic
+import AnabelianGeometryCanonicalLaneLean.SourcePackage
+import AnabelianGeometryCanonicalLaneLean.SourceDependencies
+import AnabelianGeometryCanonicalLaneLean.Formalization
+import AnabelianGeometryCanonicalLaneLean.ReviewerBridge
+import AnabelianGeometryCanonicalLaneLean.TheoremStatement
